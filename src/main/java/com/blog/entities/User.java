@@ -22,7 +22,7 @@ public class User {
     private String email;
     private String password;
 
-    private String harendra;
+    
 
     private String Sanjay;
     @ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
