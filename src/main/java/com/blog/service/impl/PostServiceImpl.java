@@ -6,7 +6,6 @@ import com.blog.payload.PostDto;
 import com.blog.payload.PostResponse;
 import com.blog.repositories.PostRepository;
 import com.blog.service.PostService;
-import javafx.geometry.Pos;
 import org.modelmapper.ModelMapper;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
